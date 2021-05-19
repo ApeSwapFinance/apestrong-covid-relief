@@ -1,0 +1,8 @@
+# Files
+.env
+truffle-config.js
+
+
+# Folders
+/build
+/node_modules
